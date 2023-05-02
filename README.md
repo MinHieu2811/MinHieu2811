@@ -14,10 +14,10 @@
     />
   </a>
   
-    <a rel="me" href="mailto:cuunhatnhat51@gmail.com">
+  <a rel="me" href="mailto:cuunhatnhat51@gmail.com">
     <img
       src="https://img.shields.io/badge/gmail-__-brightgreen"
-      alt="Facebook"
+      alt="Gmail"
     />
   </a>
 </div>
