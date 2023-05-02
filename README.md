@@ -36,7 +36,7 @@
 
 - My name is Nguyen Minh Hieu, and I am a passionate and driven individual with a deep interest in software development. I am currently a senior at Hanoi University, where I am pursuing a degree in Computer Science. I’ve built a solid foundation in programming and garnered valuable expertise through studies and internships over the years. My interest in technology and enthusiasm to learn have fueled my desire to work in software development. I am certain that my talents, inventiveness, and commitment to excellence qualify me for any development role. I’m looking forward to exploring new opportunities and contributing to innovative projects that make a significant difference in the world.
 
-![Metrics](https://raw.githubusercontent.com/omBratteng/omBratteng/github-metrics/github-metrics.svg)
+![Metrics](https://raw.githubusercontent.com/MinHieu2811/MinHieu2811/github-metrics/github-metrics.svg)
 
 
 
