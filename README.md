@@ -9,14 +9,14 @@
   </a>
   <a rel="me" href="https://www.facebook.com/profile.php?id=100009415518368">
     <img
-      src="https://img.shields.io/badge/facebook-welcome%20to%20my%20world-orange"
+      src="https://img.shields.io/badge/facebook-Minh%20Hieu-brightgreen"
       alt="Facebook"
     />
   </a>
   
   <a rel="me" href="mailto:cuunhatnhat51@gmail.com">
     <img
-      src="https://img.shields.io/badge/gmail-__-brightgreen"
+      src="https://img.shields.io/badge/gmail-cuunhatnhat51-green"
       alt="Gmail"
     />
   </a>
