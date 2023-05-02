@@ -13,22 +13,20 @@
       alt="Facebook"
     />
   </a>
+  
+    <a rel="me" href="mailto:cuunhatnhat51@gmail.com">
+    <img
+      src="https://img.shields.io/badge/gmail-__-brightgreen"
+      alt="Facebook"
+    />
+  </a>
+</div>
 
   <a href="https://app.daily.dev/Minhhieu2811">
     <img src="https://api.daily.dev/devcards/742f625553d6495baaa43a9c71664107.png?r=9zc" 
     width="400" 
     alt="Minh Hieu Nguyen's Dev Card"/>
   </a>
-  
-  <a rel="me" href="mailto:cuunhatnhat51@gmail.com">
-    <img
-      src="https://img.shields.io/badge/gmail-__-brightgreen"
-      alt="Facebook"
-    />
-  </a>
-  
-
-</div>
 
 ## I am Minh Hieu
 
