@@ -19,10 +19,8 @@ jobs:
           # GITHUB_TOKEN is a special auto-generated token used for commits
           committer_token: 
           committer_branch: github-metrics
-          committer_message: "build: update `${filename}`"
+          committer_message: "build: update"
 
           # Options
-          user: MinHieu2811
           template: classic
           base: header, activity, community
-          config_timezone: Asia/Vietnam
