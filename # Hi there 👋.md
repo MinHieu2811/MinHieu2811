@@ -21,11 +21,11 @@
     />
   </a>
 
-  <a href="https://app.daily.dev/Minhhieu2811">
+<!--   <a href="https://app.daily.dev/Minhhieu2811">
     <img src="https://api.daily.dev/devcards/742f625553d6495baaa43a9c71664107.png?r=9zc" 
     width="400" 
     alt="Minh Hieu Nguyen's Dev Card"/>
-  </a>
+  </a> -->
 
 </div>
 
